@@ -15,3 +15,10 @@ On a utilisé le ficher ecowatt.db qui se trouve le l'url "http://isis.unice.fr/
 
 * Le program sur la première partie se trouve dans le répertoire NewEcowatt
 * Les fichiers JAR sertent à ajouter des classes nessécaire pour qu'on puisse utiliser les classes comme InfluxDBCLient etc.
+
+**La deuxieme partie du projet :**
+
+Sur cette partie, on veut bien recuperer des donnees qu'on a sauvegarder dans InfluxDB. Pour arriver a cette but, on initialise la connexion avec InfluxDB et ensuite injecter le query pour recuperer des donnees.
+
+* Le programme sur la deuxieme partie se trouve dans le repertoire rec_data
+
