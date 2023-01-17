@@ -22,3 +22,9 @@ Sur cette partie, on veut bien recuperer des donnees qu'on a sauvegarder dans In
 
 * Le programme sur la deuxieme partie se trouve dans le repertoire rec_data
 
+**La troiseme partie du projet :**
+
+Dans cette derniere etape, on a pour but de construit l'interface des utilisateurs et de creer l'interaction entre cette application et InfluxDB. Pour atteindre ce but,
+On fait une amelioration pour que le programme rec_data convient pour Android studio.
+
+* La conception se fait avec Invision studio et Android studio
