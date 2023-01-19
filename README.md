@@ -1,5 +1,10 @@
 # EcowattEnergy
 
+**Quelques informations sur le fichier :**
+
+* La répertiore *NewEcowatt* est le repertoire où il contient les fichiers et les programmes necessaires pour extraire le SQLite et l'insérer dans InfluxDB
+* Le fichier *6DB6EBDC-23AC-4A6F-983A-4E3642764468.pdf* contient les diaporamas
+
 Introduction:
 
 Dans cette application, nous allons utiliser l'API d'Ecowatt Energy pour connecter et récupérer des données sur la consommation d'énergie en France. Ces données seront ensuite affichées de manière claire et facile à comprendre pour les utilisateurs, leur permettant de suivre et de comprendre leur consommation d'énergie en temps réel.
