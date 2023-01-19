@@ -4,7 +4,7 @@
 
 * La répertiore *NewEcowatt* est le repertoire où il contient les fichiers et les programmes necessaires pour extraire le SQLite et l'insérer dans InfluxDB
 * Le fichier *6DB6EBDC-23AC-4A6F-983A-4E3642764468.pdf* contient les diaporamas
-* Pour acceder aux fichiers d'Android Studio, il faut aller sur le Branch de master et là, on peut trouver tous les fichier necessaire d'android studio
+* Pour acceder aux fichiers d'Android Studio, il faut aller sur le Branch de *SAE_Appli* et là, on peut trouver tous les fichier necessaire d'android studio
 
 Introduction:
 
