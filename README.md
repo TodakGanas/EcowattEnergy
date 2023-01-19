@@ -28,3 +28,10 @@ Dans cette derniere etape, on a pour but de construit l'interface des utilisateu
 On fait une amelioration pour que le programme rec_data convient pour Android studio.
 
 * La conception se fait avec Invision studio et Android studio
+
+
+**Quelques informations sur le fichier : **
+
+* La répertiore *NewEcowatt* est le repertoire où il contient les fichiers et les programmes necessaires pour extraire le SQLite et l'insérer dans InfluxDB
+* Le fichier *6DB6EBDC-23AC-4A6F-983A-4E3642764468.pdf* contient les diaporamas
+
